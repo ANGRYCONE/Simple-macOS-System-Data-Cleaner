@@ -1,3 +1,10 @@
+![Shell Script](https://img.shields.io/badge/script-bash-brightgreen)
+![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
+![Version](https://img.shields.io/badge/version-v1.0.1-blue)
+![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/Simple-macOS-System-Data-Cleaner/total)
+
+
+
 ## What This Script Does
 
 This script performs a full system cleanup on macOS. Here's what it takes care of:
