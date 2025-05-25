@@ -1,8 +1,22 @@
+## What This Script Does
+
+This script performs a full system cleanup on macOS. Here's what it takes care of:
+
+- Deletes user caches from `~/Library/Caches`
+- Deletes system caches from `/Library/Caches` and `/System/Library/Caches`
+- Removes system and user logs, including diagnostic reports
+- Thins Time Machine local snapshots to free up disk space
+- Deletes leftover `.ipsw` (iOS update) and `.dmg` (installer) files
+- Resets Spotlight indexing for better search performance
+- Empties all Trash folders (user, root, and external volumes)
+
+**Warning:** This script uses `sudo` and permanently deletes files. Make sure you know what you're running before executing it.
+
 # Install Instructions
 
-first, you obviously wanna [download.](https://github.com/ANGRYCONE/Simple-macOS-System-Data-Cleaner/releases/download/v1.0.1/macos_cleaner.sh)
+[Download the macOS Cleaner script](https://github.com/ANGRYCONE/Simple-macOS-System-Data-Cleaner/releases/download/v1.0.1/macos_cleaner.sh)
 
-Now, open the terminal and use the commands listed below.
+Open Terminal and run the following commands:
 
 commands:
 
