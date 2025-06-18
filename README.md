@@ -18,6 +18,8 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Empties all Trash folders (user, root, and external volumes)
 
 **Warning:** This script uses `sudo` and permanently deletes files. Make sure you know what you're running before executing it.
+
+
 **Warning 2:** This script does NOT put items in the trash, it instantly deletes files.
 
 # Install Instructions
