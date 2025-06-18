@@ -33,4 +33,4 @@ chmod +x macos_cleaner.sh
 
 ./macos_cleaner.sh
 
-If this script works, give it a star ⭐
+If this script works, give it a star ⭐ (or not)
