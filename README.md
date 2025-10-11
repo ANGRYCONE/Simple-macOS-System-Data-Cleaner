@@ -22,6 +22,9 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 
 **Warning 2:** This script does NOT put items in the trash, it instantly deletes files.
 
+
+**Warning 3:** This script requires the terminal to have full disk access.
+
 # Install Instructions
 
 [Download the macOS Cleaner script](https://github.com/ANGRYCONE/Simple-macOS-System-Data-Cleaner/releases/download/v1.0.1/macos_cleaner.sh)
