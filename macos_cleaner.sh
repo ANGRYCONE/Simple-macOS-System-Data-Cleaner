@@ -17,12 +17,20 @@ sudo rm -rf /Library/Logs/*
 sudo rm -rf /Library/Logs/DiagnosticReports/*
 rm -rf ~/Library/Logs/DiagnosticReports/*
 
+
+read -p "Do you have Google Chrome installed? (y/n) " chrome_response
+if [[ "$chrome_response" =~ ^[Yy]$ ]]; then
+  echo "Alright, cleaning specific Chrome data..."
+  rm -rf "$HOME/Library/Application Support/Google/Chrome/OptGuideOnDeviceModel"
+  rm -rf "$HOME/Library/Application Support/Google/Chrome/component_crx_cache"
+else
+  echo "Okay, skipping Chrome-specific cleanup."
+fi
+# --------------------------------------------------------
+
 echo "Thinning Local Time Machine Snapshots..."
 sudo tmutil thinlocalsnapshots / 10000000000 4
 
-echo "Removing .ipsw and .dmg files..."
-find ~/ -name "*.ipsw" -delete
-find ~/Downloads -name "*.dmg" -delete
 
 echo "Resetting Spotlight..."
 sudo mdutil -i off /
