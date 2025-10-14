@@ -16,6 +16,8 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes leftover `.ipsw` (iOS update) and `.dmg` (installer) files (Does not delete on latest version.)
 - Resets Spotlight indexing for better search performance
 - Empties all Trash folders (user, root, and external volumes)
+- Deletes download cache from Google Chrome
+- Deletes that stupid AI optimization that does nothing from Google Chrome (If you think it's useful, it does regenerate later on.)
 
 **Warning:** This script uses `sudo` and permanently deletes files. Make sure you know what you're running before executing it.
 
