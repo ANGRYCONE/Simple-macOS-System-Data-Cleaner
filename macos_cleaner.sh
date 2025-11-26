@@ -8,7 +8,6 @@ sudo rm -rf ~/Library/Caches/*
 
 echo "Clearing System Caches..."
 sudo rm -rf /Library/Caches/*
-sudo rm -rf /System/Library/Caches/* 2>/dev/null
 
 echo "Deleting Logs..."
 sudo rm -rf /private/var/log/*
