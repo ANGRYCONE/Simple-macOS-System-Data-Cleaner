@@ -16,6 +16,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Resets Spotlight indexing for better search performance
 - Empties all Trash folders (user, root, and external volumes)
 - Deletes download cache from Google Chrome
+- Deleted CacheStorage from Google Chrome
 - Deletes that stupid AI optimization that does nothing from Google Chrome (If you think it's useful, it does regenerate later on.)
 - Deletes Xcode build cache (OPTIONAL)
 - Deletes Xcode simulation core (OPTIONAL WITH TRIPLE CHECK)
