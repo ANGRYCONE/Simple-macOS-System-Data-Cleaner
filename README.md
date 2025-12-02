@@ -13,7 +13,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Thins Time Machine local snapshots to free up disk space
 - Deletes leftover `.ipsw` (iOS update) and `.dmg` (installer) files (Does not delete on latest version.)
 - Resets Spotlight indexing for better search performance
-- Empties all Trash folders (user, root, and external volumes)
+- Empties the trash
 - Deletes download cache from Google Chrome
 - Deleted CacheStorage from Google Chrome
 - Deletes that stupid AI optimization that does nothing from Google Chrome (If you think it's useful, it does regenerate later on.)
