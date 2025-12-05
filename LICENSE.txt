@@ -1,0 +1,22 @@
+
+# License: Simple macOS System Data Cleaner
+
+**This license grants rights to use the software but prohibits redistribution or modification.**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software in personal or commercial projects.
+
+**The following actions are NOT PERMITTED without the express written permission of the author:**
+
+1. **Redistribution:** You may not distribute or share copies of the Software, either in original or modified form, on any public or private medium. This includes uploading the Software to other repositories, package managers, or websites.
+
+2. **Modification and Distribution:** You may not modify, merge, adapt, or create derivative works of the Software for the purpose of redistribution.
+
+3. **Sublicensing:** You may not sublicense, rent, lease, or grant rights in the Software to any third party.
+
+**Additional Conditions:**
+
+- **Commercial Use:** You may use the Software internally for personal or commercial purposes without redistribution.
+- **Warranty Disclaimer:** The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+- **Termination:** If you violate any of these terms, your rights under this license terminate automatically.
+
+For permissions beyond those described here, please contact the author.
