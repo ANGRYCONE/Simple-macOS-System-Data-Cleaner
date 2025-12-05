@@ -43,3 +43,10 @@ chmod +x macos_cleaner.sh
 ./macos_cleaner.sh
 
 If this script works, give it a star ⭐ (or not, I couldn't care any less.)
+
+
+
+## License
+
+Custom “no-redistribution” license – see `LICENSE` for details.  
+You may use this script, but you may not redistribute or include it in other tools without permission.
