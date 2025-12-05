@@ -32,7 +32,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 
 # Install Instructions
 
-[Download the macOS Cleaner script](https://github.com/ANGRYCONE/Simple-macOS-System-Data-Cleaner/releases/download/v1.6.1/macos_cleaner.sh) - Link may be outdated (I sometimes forget to change it.) Download from releases.
+[Download the latest macOS Cleaner script]([https://github.com/ANGRYCONE/Simple-macOS-System-Data-Cleaner/releases/download/v1.6.1/macos_cleaner.sh](https://github.com/ANGRYCONE/Simple-macOS-System-Data-Cleaner/releases)) - Download the latest version.
 
 Open Terminal and run the following commands:
 
