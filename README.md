@@ -4,7 +4,12 @@
 ![Version](https://img.shields.io/badge/version-v1.6.1-blue)
 ![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/Simple-macOS-System-Data-Cleaner/total)
 
+## Important Notice
 
+This script is **not** an alternative to CleanMyMac.
+
+If you want a free macOS maintenance tool with a GUI, use **OnyX**, it’s a far more complete utility.  
+You can download it here: https://www.titanium-software.fr/en/onyx.html
 
 ## What This Script Does
 
