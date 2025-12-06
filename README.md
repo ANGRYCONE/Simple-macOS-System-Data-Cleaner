@@ -55,3 +55,18 @@ chmod +x macos_cleaner.sh
 
 Custom “no-redistribution” license – see `LICENSE` for details.  
 You may use this script, but you may not redistribute or include it in other tools without permission.
+
+
+
+
+
+
+
+### About this script
+
+This script was created for **my personal use**, and I’ve decided to make it public in case others find it useful.
+
+- It’s not meant to be a full-featured system cleaner.
+- It’s opinionated and tailored to how *I* like to manage my Mac.
+- Use it at your own risk and always review the code before running it.
+
