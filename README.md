@@ -6,10 +6,22 @@
 
 ## Important Notice
 
-This script is **not** an alternative to CleanMyMac.
+This script is not an alternative to CleanMyMac.
 
-If you want a free macOS maintenance tool with a GUI, use **OnyX**, it’s a far more complete utility.  
-You can download it here: https://www.titanium-software.fr/en/onyx.html
+The intended use is:
+
+First, you'll need to use OnyX to run your macOS maintenance tasks.
+You can download OnyX here: https://www.titanium-software.fr/en/onyx.html
+
+After OnyX has finished and your Mac has rebooted, run the macos_cleaner.sh script.
+
+Once the script has completed, you can optionally delete the sleepimage to free space by running:
+
+sudo rm -rf /private/var/vm/sleepimage
+
+
+OnyX is a far more complete GUI maintenance utility, and this script is designed to be used after OnyX, not as a replacement for it.
+
 
 ## What This Script Does
 
@@ -26,6 +38,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes that stupid AI optimization that does nothing from Google Chrome (If you think it's useful, it does regenerate later on.)
 - Deletes Xcode build cache (OPTIONAL)
 - Deletes Xcode simulation core (OPTIONAL WITH TRIPLE CHECK)
+- Deletes Roblox's rbx-storage.db (Roblox caches, can get really big.)
 
 **Warning 1:** This script uses `sudo` and permanently deletes files. Make sure you know what you're running before executing it.
 
