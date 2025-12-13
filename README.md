@@ -6,8 +6,6 @@
 
 ## Important Notice
 
-This script is not an alternative to CleanMyMac.
-
 The intended use is:
 
 First, you'll need to use OnyX to run your macOS maintenance tasks.
