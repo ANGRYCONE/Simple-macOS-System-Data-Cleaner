@@ -37,6 +37,8 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes Xcode build cache (OPTIONAL)
 - Deletes Xcode simulation core (OPTIONAL WITH TRIPLE CHECK)
 - Deletes Roblox's rbx-storage.db (Roblox caches, can get really big.)
+- Deletes Safari Caches
+- Deletes medianalasysd (I probably spelled that wrong) caches
 
 **Warning 1:** This script uses `sudo` and permanently deletes files. Make sure you know what you're running before executing it.
 
