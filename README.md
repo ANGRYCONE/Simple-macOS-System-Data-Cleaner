@@ -13,9 +13,6 @@ You can download OnyX here: https://www.titanium-software.fr/en/onyx.html
 
 After OnyX has finished and your Mac has rebooted, run the macos_cleaner.sh script.
 
-Once the script has completed, you can optionally delete the sleepimage to free space by running:
-
-sudo rm -rf /private/var/vm/sleepimage
 
 
 OnyX is a far more complete GUI maintenance utility, and this script is designed to be used after OnyX, not as a replacement for it.
