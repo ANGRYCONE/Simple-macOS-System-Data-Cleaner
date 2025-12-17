@@ -17,6 +17,7 @@ After OnyX has finished and your Mac has rebooted, run the macos_cleaner.sh scri
 
 OnyX is a far more complete GUI maintenance utility, and this script is designed to be used after OnyX, not as a replacement for it.
 
+Versions 1.6.1 and later are full system cleaners. Even so, I still recommend running this script after OnyX. From version 1.6.1 onward, using OnyX first is optional but advised.
 
 ## What This Script Does
 
