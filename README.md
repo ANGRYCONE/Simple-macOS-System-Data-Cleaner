@@ -1,7 +1,7 @@
 # Simple macOS System Data Cleaner
 
 ![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
-![Version](https://img.shields.io/badge/version-v1.8-blue)
+![Version](https://img.shields.io/badge/version-v1.8.1-blue)
 ![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/Simple-macOS-System-Data-Cleaner/total)
 
 ## Important Notice
@@ -39,6 +39,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes Roblox's rbx-storage.db (Roblox caches, can get really big.)
 - Deletes Safari Caches
 - Deletes medianalasysd (I probably spelled that wrong) caches
+- Deletes wallpaper agent caches
 
 **Warning 1:** This script uses `sudo` and permanently deletes files.
 
