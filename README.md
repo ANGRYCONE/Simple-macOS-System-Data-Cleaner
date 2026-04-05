@@ -24,13 +24,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes medianalasysd (I probably spelled that wrong) caches
 - Deletes wallpaper agent caches
 
-**Warning 1:** This script uses `sudo` and permanently deletes files.
-
-
-**Warning 2:** This script does NOT put items in the trash, it instantly deletes files.
-
-
-**Warning 3:** This script requires the terminal to have full disk access.
+**Warning 1:** This script requires the terminal to have full disk access.
 
 # Install Instructions
 
