@@ -4,23 +4,6 @@
 ![Version](https://img.shields.io/badge/version-v2.0-blue)
 ![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/Simple-macOS-System-Data-Cleaner/total)
 
-## Important Notice
-
-The intended use is:
-
-First, you'll need to use OnyX to run your macOS maintenance tasks.
-You can download OnyX here: https://www.titanium-software.fr/en/onyx.html
-
-After OnyX has finished and your Mac has rebooted, run the macos_cleaner.sh script.
-
-
-
-OnyX is a far more complete GUI maintenance utility, and this script is designed to be used after OnyX, not as a replacement for it.
-
-Versions 1.6.1 and later are full system cleaners. Even so, I still recommend running this script after OnyX. 
-
-From version 1.6.1 onward, using OnyX first is optional but advised.
-
 ## What This Script Does
 
 This script performs a full system cleanup on macOS. Here's what it takes care of:
