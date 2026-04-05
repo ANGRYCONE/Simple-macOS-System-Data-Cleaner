@@ -26,7 +26,23 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 
 **Warning 1:** This script requires the terminal to have full disk access.
 
-# Install Instructions
+# Install Instructions (First Method)
+
+Install via Homebrew:
+```bash
+brew install ANGRYCONE/tap/mclean
+```
+
+Or:
+```bash
+brew tap ANGRYCONE/tap
+brew install mclean
+```
+
+
+
+# Install Instructions (Second Method)
+
 
 [Download the latest macOS Cleaner Script](https://github.com/ANGRYCONE/Simple-macOS-System-Data-Cleaner/releases/latest)
 
