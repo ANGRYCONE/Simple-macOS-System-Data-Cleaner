@@ -51,11 +51,11 @@ Open Terminal and run the following commands:
 
 commands:
 
-cd downloads
+`cd Downloads`
 
-chmod +x macos_cleaner.sh
+`chmod +x macos_cleaner.sh`
 
-./macos_cleaner.sh
+`./macos_cleaner.sh`
 
 
 
