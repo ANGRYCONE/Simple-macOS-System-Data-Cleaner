@@ -61,5 +61,6 @@ commands:
 
 ## License
 
-Custom “no-redistribution” license – see `LICENSE` for details.  
-You may use this script, but you may not redistribute or include it in other tools without permission.
+Custom license – see `LICENSE` for details.  
+You may use this script, but you may not redistribute or include it in other tools without permission.  
+Distribution is restricted to the official source maintained by the author.
