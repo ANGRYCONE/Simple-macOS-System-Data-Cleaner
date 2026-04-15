@@ -63,17 +63,3 @@ commands:
 
 Custom “no-redistribution” license – see `LICENSE` for details.  
 You may use this script, but you may not redistribute or include it in other tools without permission.
-
-
-
-
-
-
-
-### About this script
-
-This script was created for **my personal use**, and I’ve decided to make it public in case others find it useful.
-
-- It’s not meant to be a full-featured system cleaner. (Versions 1.6.1+ are full system cleaners, but they should be used after OnyX.)
-- It’s opinionated and tailored to how *I* like to manage my Mac.
-
