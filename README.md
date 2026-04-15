@@ -9,7 +9,7 @@
 This script performs a full system cleanup on macOS. Here's what it takes care of:
 
 - Deletes user caches from `~/Library/Caches`
-- Deletes system caches from `/Library/Caches`
+- Deletes system caches from `/Library/Caches` (CONFIRMED SAFE, even with SIP disabled.)
 - Thins Time Machine local snapshots to free up disk space
 - Deletes leftover `.ipsw` (iOS update) and `.dmg` (installer) files (Does not delete on latest version.)
 - Resets Spotlight indexing for better search performance
