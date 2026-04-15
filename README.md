@@ -11,7 +11,6 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes user caches from `~/Library/Caches`
 - Deletes system caches from `/Library/Caches` (CONFIRMED SAFE, even with SIP disabled.)
 - Thins Time Machine local snapshots to free up disk space
-- Deletes leftover `.ipsw` (iOS update) and `.dmg` (installer) files (Does not delete on latest version.)
 - Resets Spotlight indexing for better search performance
 - Empties the trash
 - Deletes download cache from Google Chrome
@@ -21,8 +20,10 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes Xcode simulation core (OPTIONAL WITH TRIPLE CHECK)
 - Deletes Roblox's rbx-storage.db (Roblox caches, can get really big.)
 - Deletes Safari Caches
-- Deletes medianalasysd (I probably spelled that wrong) caches
+- Deletes mediaanalysisd caches
 - Deletes wallpaper agent caches
+- Deletes geod caches
+- Deletes Messages caches
 
 **Warning 1:** This script requires the terminal to have full disk access.
 
