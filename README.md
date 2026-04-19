@@ -1,4 +1,4 @@
-# Simple macOS System Data Cleaner
+# macOS System Cleaner
 
 ![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![Version](https://img.shields.io/badge/version-v2.4-blue)
