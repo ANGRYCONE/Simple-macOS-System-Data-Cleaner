@@ -40,6 +40,11 @@ brew tap ANGRYCONE/tap
 brew install mclean
 ```
 
+Update:
+```bash
+brew reinstall mclean
+```
+
 
 
 # Install Instructions (Second Method)
