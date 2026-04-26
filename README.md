@@ -1,7 +1,7 @@
 # macOS System Cleaner
 
 ![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
-![Version](https://img.shields.io/badge/version-v2.4-blue)
+![Version](https://img.shields.io/badge/version-v2.4.3-blue)
 ![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/Simple-macOS-System-Data-Cleaner/total)
 
 ## What This Script Does
